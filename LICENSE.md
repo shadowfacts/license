@@ -14,7 +14,7 @@ First off, this is a fairly simple license, you should have no trouble understan
 - Create or distribute code which contains 50% or more Functionally Equivalent Statements* from the code contained in this repository.
 
 ### You MUST
-- Maintain a publicly visible repository of your code which is inspired by, derived from, or copied form this code. You keep the rights to YOUR OWN code, but you must still make it publicly visible.
+- Maintain a publicly visible repository of your code which is inspired by, derived from, or copied from this code. You keep the rights to YOUR OWN code, but you must still make it publicly visible.
 - **Not be a jerk\*\*.** If you're a jerk, you cannot use any of the code in this repository.
 
 
