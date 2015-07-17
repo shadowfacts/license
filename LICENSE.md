@@ -11,7 +11,8 @@ First off, this is a fairly simple license, you should have no trouble understan
 ### You CANNOT
 - Redistribute this in its entirety as source or compiled code without express permission\*\*\*.
 - Make any money off of the code contained in this repository.
-- Create or distribute code which contains 50% or more Functionally Equivalent Statements* from the code contained in this repository.
+- Create or distribute code which contains 50% or more Functionally Equivalent Statements\* from the code contained in this repository.
+- Hold me, the author, liable for any damages caused by this code.
 
 ### You MUST
 - Maintain a publicly visible repository of your code which is inspired by, derived from, or copied from this code. You keep the rights to YOUR OWN code, but you must still make it publicly visible.
